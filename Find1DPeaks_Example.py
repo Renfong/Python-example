@@ -2,6 +2,12 @@
 """
 Created on Sun Jun 19 21:10:32 2022
 
+Find 1D peak maximum in python
+
+ref:
+https://www.statology.org/numpy-shift/
+https://stackoverflow.com/questions/65154833/how-to-find-peak-positions-local-maxima
+
 @author: renfo
 """
 
